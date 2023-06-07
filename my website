@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+
+    <meta charset="utf-8">
+    <title>Amaya Irani</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&family=Playfair+Display:ital,wght@1,500&family=Roboto+Mono&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="top-container">
+      <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
+      <h1>I'm Amaya.</h1>
+      <h2>a <span class="web">web</span> designer.</h2>
+      <img class="bottom-cloud"src="images/cloud.png" alt="cloud-img">
+      <img src="images/mountain.png" alt="mountain-img">
+      <div class="middle-container">
+        <img class="profile"img src="woman.png" alt="profile picture">
+          <h2>Hello.</h2>
+          <p class="intro">I'm Amaya. I'm a web developer and I hope to be an entreprenuer. I love crocheting and making new things. </p>
+        </div>
+        <hr>
+        <div class="skills">
+          <h2>My Skills.</h2>
+          <div class="skill-row">
+            <img class="computer" src="images/computer.png" alt="image couldnt be loaded">
+            <h3>Design and Development</h3>
+            <p>I started learning to code when I was 14 years old because I wanted to make my own websites. Over time, I had gained experiance in designing and developing mobile and web applications. </p>
+          </div>
+          <div class="skill-row">
+            <img class="books" src="book101.png" alt="image couldnt be loaded">
+            <h3>Reading</h3>
+            <p>But my best skill is actually reading. It's something I do to pass my time and it helps keep me busy when I'm bored. </p>
+          </div>
+        </div>
+        <hr>
+        <div class="contact-me">
+          <h2>Get In Touch</h2>
+          <h3>If you love reading as much as I do.</h3>
+          <p>Love reading as much as I do? Let's talk about how awesome books are!</p>
+          <a class="btn" href="amayairani56@gmail.com">CONTACT ME</a> <br>
+        </div>
+
+      <div class="bottom-container">
+        <a class="footer-link" href="https://www.instagram.com/handmade_by_amaya/">Instagram</a>
+
+        <p class="footer">©handmade_by_amaya.</p>
+      </div>
+
+  </body>
+</html>
